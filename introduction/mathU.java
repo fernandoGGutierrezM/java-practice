@@ -29,6 +29,7 @@ public class mathU {
         System.out.print('\n');
         System.out.print(Math.ceil(9.5));
 
+
     }
     
 }
