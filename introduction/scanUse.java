@@ -40,4 +40,5 @@ after an int input:
     System.out.println("favorite color: ");
     String color = scanner.nextLine();
 
+ALSO, CONSIDER THAT USING 2 SCANNER IN THE SAME METHOD MIGHT CAUSE ERRORS!
 */
